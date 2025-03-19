@@ -598,17 +598,17 @@ span {
 }
 
 .img1{
-    background-image: url(imgs/logo.png);
+    background-image: url(img/logo.png);
     background-size: cover;
     background-position: center;
 }
 .img2{
-    background-image: url(imgs/taxi.png);
+    background-image: url(img/taxi.png);
     background-size: cover;
     background-position: center;
 }
 .img3{
-    background-image: url(imgs/icon.png);
+    background-image: url(img/icon.png);
     background-size: cover;
     background-position: center;
 }
